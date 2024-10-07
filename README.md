@@ -1,0 +1,1 @@
+Este projeto implementa uma simulação de um sistema de detecção de incêndios utilizando threads, mutexes, e monitores para comunicação e sincronização. O sistema foi desenvolvido em C utilizando a biblioteca pthreads.
